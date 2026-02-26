@@ -12,6 +12,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Craftyoff2&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Craftyoff2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+|![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mithi&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mithi&theme=dracula)|
+|-----|------|
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Craftyoff2&theme=merko&no-frame=false&no-bg=true&margin-w=4)
 
